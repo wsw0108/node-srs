@@ -1,6 +1,6 @@
 {
   "name": "srs",
-  "version": "1.0.1",
+  "version": "1.0.1-maptalks1",
   "main": "./lib/index.js",
   "description": "Spatial reference library for node",
   "keywords": [
@@ -20,7 +20,7 @@
     "url": "git://github.com/mapbox/node-srs.git"
   },
   "dependencies": {
-    "gdal": "~0.7.0"
+    "gdal": "https://github.com/wsw0108/node-gdal/tarball/v0.8.0-maptalks1"
   },
   "author": "Dane Springmeyer <dane@mapbox.com>",
   "licenses": [
